@@ -6,5 +6,5 @@ class Pokemon:
     def print_pokemon(self):
         print self.image
 
-    def equals(self, string):
+    def equals(self, name):
         return self.name == name
