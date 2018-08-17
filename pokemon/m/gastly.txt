@@ -1,0 +1,31 @@
+gastly,m
+
+
+               =
+        =       ==
+         ==     ===
+         ====  ======
+          =============
+          ================
+          ==========HHHHHHH=
+           =======HHHHHHHHHHH=
+           ===H==HHHHHHHHHHHHHH=
+           ====HHHHHHHHHHHHHHHHH=
+           =====HHHHHHHHHHHHHHHH=
+            ==H  =HHHHHHHHHHHHHHH= H
+            ==H   =HHHHHHHHHHHHHHHH
+            =H=    =HHHHHHHHHHHHH=
+            =H=     =HHHHHHHHHHH=  =
+         =  =H=      =HHHHHHHHH=   =
+          ===H=       =HHHHHHH=    =
+           ==H=     H  =HHHHH= H   =
+           ==HH         =HHH=      =
+            =HH          HHH      =
+            =HHH        HHHHH     =
+             =HHH=    =HHHHHHH   H
+             =HHHHHHHHHHHHHHHHHHH=
+              =HH= =HHHHHHHHH= HH=
+               =HH  H=======H  H=
+                 H HH===     H H
+                  =HHH======HH=
+                    =HHHHHHH=

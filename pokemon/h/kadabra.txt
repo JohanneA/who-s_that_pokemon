@@ -1,0 +1,50 @@
+kadabra,h
+
+
+                X              HX
+               X X           XH;H
+               H H         XH ;;H   H
+               H  X      XHH ;;X   HH
+               H  H    XHH ;;X;H  X H
+               H;  HXHHX  ;;HX;H  HHH
+       XHH     H;;;    ;;;;HXXH  H;;H
+     XH  XH    H;;;;;;;;;;HXX;H  H;;X
+     H  ;XH    H;;;;;;;;;HHHXH  HX;H
+  XHH  ;XXX   X;;;;;;;;;XHHHHH HXX;H
+ H  H;;;HH    H;X;;;;;;H ;H;;HH;XXX;H
+ H;;;HHHHHHH XHXXXX;;;;;XHHXX;;XXXX;HH
+ XH;;XHX;;H  H XXX;;;;;X;;;HHXXXXXX;;;HH
+  HHXHH;HH  X ;X;X;;;XHX;;;;HXXXXXXXXX;;HH
+  H HH HH   H;;;;;;HX  X;;;;XHXXXXXXHHXXH HX
+XHH;H;HH    XX;;;;H; H;;;;;XXHHXXXHH  HHHH
+H ;HHHXH     HX;;HXXXXX;;XXXHH;HHHH
+H ;;H H      HH;XXXXXXXXXHHH;H;;XHH
+ XHHHHH     HHH;HX;;XHHHHHX;H;;XXHX
+ H;HXXH    H;HH;HXXHHXXHHHHXHXXXXH  XHHHX
+H HXXH H  H X H;XX; XXXHHHHHHXXXXHXH     HX
+H HHX;; XH X ;H;HXH;; H;HHHHXHXXHX;;;;     HH
+XH  HX;;XH;H XHXXXHH;; XHHHHHHHHHXXH;;;;;   XH
+     HXXXHX;;H;HHHXXH;;HX;HHHHXHXXXXXH;;;;;  H
+      HXXHH XH ;;XXXXH; XX;;XXXHXXXXXXH;;;;;  X
+       XH H;X H;XXHHHX;;HXXXXXHHHXXXXXXH;;;;; H
+         X ;H  HHHXXXHX;;XXXXHH;;;HXXXXX;;;;; H
+         H XH   HHXX;XH; XXHHHH;;;;HXXXXX;;;;;H
+         H XH   XH;X;XH; HHHHXXH;;;;XXXXH;;;;;X
+         X X   XHH;XX;H; HHH;;XX;;;;HXXXH;;;;H
+          ;;XHH ;;H;X;H; XHH;;;;H;;;HXXXH;;;;H
+          X;H ;;;XH;;;H; HXXHH;;;;;;XXXXH;;;;X
+           XHHXXXXXH;HH;H;;  XH;;;;XHXXHX;;;H
+           X ;;XHHHHH;X;HX;;;XH;;;XHHHHH;;;;X
+           H ;;;XH HXHHHHXXXHHHXXXXHHHHX;;;H
+           H ;;XXH  HXHHHHXHXXXHHXHHHXHX;;;H
+            H ;XH   XHXHHHHHXX; HHHHX HXX;;X
+         XHHHH;;XH    HHXHHHXX;; HH    HX;;;H
+       XH ;;XH;;XXHH    HHHHHXX;;XH    XHXX;;HHX
+      H HHHH;;XXXXH;H       HXXX; H     XHXXXXX
+       H H;;XXHHHHHH         HXXX;HHX     XHHX
+      HHHHHHHX                HHX;;  HX
+                             XHHXX;;;; HX
+                                HXHHXXHX H
+                                 H;XHHHHHHX
+                                 H H
+                                  H

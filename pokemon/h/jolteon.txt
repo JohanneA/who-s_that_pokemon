@@ -1,0 +1,51 @@
+jolteon,h
+
+
+XH                             HX
+H;XHX                         HXH
+H;;;;XH                      XHXH
+XXXX;;;H                     HX;H
+ HXHHX;;H                   HXH;H    XH
+ HXXHHX;;X                 HXXH;H  HX;H
+ XXXHHHX;H        X  H     HXHX;HHX;;;X
+  HXHHHHX;H       HH HH   HXHH;;X;;;;X       XHX
+   HXHHHHX;X XH  XXXHHXH  HHHH;XHX;;;H    XHX;;H
+    HXHHHH;;XHXH HX;XHX;HHXHHX;H;H;;XXXHHX;;;;H
+ HHHXXXHHHX;;HXXXHX;;XHXHXHHH;;;XH;HXXX;;;;;XH
+  HXXXXXXHHX;;H;XXX;;;HX;HHHXX;XHHHXX;;;;;;XH
+   XHXXXXHHXX;X;;XXX;;;X;XHHXXH;;;HX;;;;;XXH
+     HHHXXX;;;;;;;;X;;;;;;XHXH;;;HX;;;;;XXH
+      HXHXXX;;;;;;;;;;;;;;HXH;;;;HX;;;;XXH
+       XHHX;XHXX ;;;;;;;XXXH;;;;HX;;;;XX;;XHX
+       HXXH;;HH X ;;;;;X H;H;;XHHHHHHXX;;;;;;HX
+     XHX;HX;;XHHHX;;;;XHHX;X;;;;;;;  H;;;;;;HX
+  XHX;;;HXHX;;XHHH;;;;HHX;;;H;;;    H;;;;;HX
+ XH;;;;;XHXH;;;;;;;XH;;;;;;XH      HXX;;HX
+   XHX;XHXHXX;H;;;;;;;;;H;XHX    HHXXXXX;;XHHHHX
+      XH;;;HHXXHHHHHHHHH;XH    ;;  HXXXXXXXX;;H
+     H;;;;;;XX;XHHXXXXHH;H      H;; HXX;;;;;;H
+   XH;;;H;;;;HX;HXXXXXH;X        HHHXX;;;;;;H
+    HHHX;;;;;;H;;HHHHH;XH   ;;    HXXX;;;;HX
+      H;; ;;;;;HX;;;;;H     HX;;   HX;;;XHH
+     H;;   ;;;;;;XHHHX      XHHX;;  H;XH;;H
+    H;;    ;;;;              HHHHHHHH;H;;;XH
+   H;;   XHX;;;        X;    XHHHHHXXXX;;;;H
+  H;;XHHXH;H;;  H;     XX;    HHHHXXXXX;;;;XH
+ XHHHHHHHXX;;  ; H;     HHX;  XHHHXXXXXX;;;;XX
+        HXH;   H; H;    HHHX;  HHXHXXXXXXX;;;H
+        HXH   HXH; H;   XHHHHX; H   XHHXXXX;;;X
+       HXXH  HX  H;HH;   HHXXHHHHX     HHXXX;;H
+       HXX;HHX   XH;;H;  HHXXXXXHH      HXXX;;H
+      HXX;;HH   HXX;;;H; H HXXXXXX       HXX;;X
+     HXXX;;H    HXX;;;XH;H HXXXXXH       HXX;;;X
+    HXXX;;X     HXX;;;XXHH  HXXXXH       HXX;;;H
+ HHHXX;;;XH    HXX;;;XH  X  HXHXXX       HXX;;;H
+HXXX;;;;;H     HXX;;;H      XHHHX        HXX;;;H
+HX;HH;;HH     XXX;;;;H                   HHX;H;H
+HH;H;XHH      HX;;;;XX                   XHX;H;X
+  HHHHX      HXX;;;;H                     XHHHX
+           XHXX;;;;XH
+           HXX;;H;;H
+           XH;;H;;XH
+            XH;H;XH
+              XHHX

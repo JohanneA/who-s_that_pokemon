@@ -1,0 +1,43 @@
+psyduck,e
+
+
+       XH
+      XHHX
+   XHX  XHX  XHHHHHX
+ XHHHHHX HHHX;;;;;;;XHX XHX
+     XHHHX;;;;;;;;;;  ;XHXXHH
+   XHHHHX;;;;;;;;;;;;;  ;HXX;H
+ HHHHXXXX;;;;;;;;;;;;;;; ;HX;;H
+      HX;;;;;;;;;;;;;;;;;;;H;;X
+      XX;;;;;;;;;;;;;XHHHX;X;;;H
+     XX;;;XHHX;;;;;;X;;  ;X;X;;;H
+     HX;HX;  ;X;;;;;H; H   HH;;;;X
+     HXX;  H  H;;;;;;H     HH;;;;H
+     HXH;     X;;;;;;;XH  ;XH;;;;X
+     HXH;;  ;X;;;XHHHX;;XHX;HX;;;;X
+     XXHX;;XH;;;H;    XH;;;XHX;;;;H
+      HXXHX;;XHH;;H  ;H HH;HXX;;;;X
+      HXXXX;X;;;         XHXX;;;;X
+       HHXXXH;;          HXXXX;;;H
+        HHHXXH;           HXX;X;H
+       HX;;XHX;            H;;;H
+ XHHX HX;;;;;H;             X;;H
+XX;;;HX;;;;;;H;             H;;;H
+HXX;;X;;;;;;;X;             ;X;;X
+ XXXH;;;;;;;;;X;             H;;;X
+  HX;;;;;;;;;;H;             HX;;H
+   H;;;;;;;X;;X;             XXXXH
+  X;;;;;; ;H;;;X;          HHXXHHX
+  H;;;;; ;HX;;;;X;        X HXH  H
+ X;;;;; ;HX;;;;;;HX;     X;  H   HHX
+ H;;;;; ;HX;;;;;;;;XHHHHHH;      X H
+ H;;;;;;HXX;;;;;;;;;;;;XXH;        X
+ H;;;XH;HXX;;;;;;;;;;;;;XH;;      X
+ X;;H  HHXXX;;;;;;;;;;;;XH;;      H
+  XH    HXXXX;;;;;;;;;;XXHX;;;   H
+         HXXXXX;;;;;;;XXHHHX;;;;H
+          HXXXXXXXXXHHX    XHHHX
+           XHHHHHHX;;HH
+           HX;;H;   H  H
+            XHX HX   HHX
+                  XHHX

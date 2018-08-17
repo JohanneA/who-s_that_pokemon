@@ -1,0 +1,34 @@
+staryu,e
+
+
+         HHH                      HHH
+         HH$HH                  HHHHH
+         HHH$$HHH            HHHHHH$H
+         HHHH$$$$HHH  HH  HHHHHHHHH$H
+         HHHHH$HHH$$HH$$HHHHHHHHHH$$H
+          HHHHH$ $HHH$$$$HHH$$ HH$$H
+          HHHHH$$   $HHHH$$$$  H$$$H
+          HHHHHH$  HH$$$$HH   HH$$$H
+           HHH    H$$ $$  HH $ $H$H
+           HHHHH  H$$$$$  HH  HHHHH
+           H      H$$$HHHHHH     $H
+           HHHHH   HH$HHHHH   HHHHH
+         HHHHH$$     HHHH       HHHHH
+       HHHHHHHHHH$           HHHHHHHHHH
+     HHHHHHHHHHH$        $$$  HHHHHHHHHHH
+   HHHHHHHHHHHH$    HH  HH$$$  HHHHHHHHHHHH
+ HHHHHHHH$$$$H$    H$$    HH$$  H$$$$HHHHHHHH
+HHHHH$$$$$$$$H   HHH$$$   HHH$$ H$$$$$$$$HHHHH
+HHHHH$$$$$$$$$HHHHHHHH$$HH$$$HHH$$$$$$$$$HHHHH
+  HHHHHHHHH$$$HHHHHHHHHH$$$$$$HH$$$HHHHHHHH$
+      $HHHHHHHHHHHHHHHHH$$$$$$$$HHHHHHH$
+          $HHHHHHHHHHHHH$$$$$$$HHHH$
+               HHHHHHHHH$$$$$$HH
+                HHHHHHHH$$$$$HH
+                 HHHHHHH$$$$HH
+                  HHHHHH$$$HH
+                   HHHHH$$HH
+                    HHHH$HH
+                     HHHHH
+                      HHH
+                       H

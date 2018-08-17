@@ -1,0 +1,33 @@
+zubat,e
+
+           H
+          HH
+         H:H                      HH
+        H  H                     : :  :
+       H : H:     :HHH:          H  :HH:
+      H  :: H     H    H:       H   H  H
+     :  ::H H:    H :H   H     H  :HH  H
+     H ::::H H    H   H   HHHHHHH:HH   H
+    H :::::H  H    H   H   H     HH   H
+   H  ::::: H  H   H  ::H          H  H
+   H ::  :: HH  H   HH::H          H:H:
+  : ::   : H::H  HH   HH            H::
+  H :    : H:::H   HHHHH     HHHHHH H::
+  H:    : H:::::H   H  H   :H  HHH HH::
+ : :    : H::  ::H:    H: HHH HHHHH H::
+ H :     H::    ::H::  :::HHHHHHHHHH ::
+ H       H:      :::   :HHHHHHHHHHH: :
+: :      :       :H:   ::HH HHHHH :  :
+H :     H         H:    :HH HHHHH:   :
+H       H         H::   :::HHHHH    :
+H       H         HH::::::::::H     :
+:       :         HHH::::::HH       :
+                  HHHHHHHHHH       :
+                 :HH    HHH        :
+                :H       H:
+              :H         H
+             ::         H
+            ::          H
+           :            :
+         ::            :
+        :              :

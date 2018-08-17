@@ -1,0 +1,41 @@
+bellsprout,e
+
+
+                      +HHHH+
+                    H+;    ;H
+                   H;;       H
+                  +;;         H
+                  H;;         +
+                  H;;          +
+                  H;;          H
+                  H;;       H  H
+                 +H;;H      HH H
+     +HHH+       HH+;HH        +
+ +HH+;;;;;H     +H+H;;        +
+ H;;;HH;;;;H    HH  H;;;      H
+  H;;;;H;;;;H  +H+   +;;;     H
+  +;;;;;H;;;H  HH    H;;;;+HHH+
+   +;;;;H;;;;+ HH     +HHH+++++H
+   H;;;;;H;;;H+HH     H+++HHHHH+H
+   H;;;;;;H;;;HHH+    H+HHHHHHH+H
+   H;;;;;;;HHHHHHH+   H+HHHHHH++H
+   +;;;;;;;;;++HHHH+  H++HHH+++H
+    H;;;;;;;+++++HHH+ +H++++HHHH+
+    H+++++++++++++HHHH++HHHH;;;+++
+     H++++++++++++HHHH+++++;HH;;+H
+      H+++++++++HHHHHH++++;;;;HH+++
+       H++++++HHHH+HHHH+++;;;;;;H+H
+         HHHHH     HHHHH+++;;;;;;HH
+ +                 +HHH H++++HHHHHH
+  H+               ;HHH  +HH+    +H
+   H;    +HHHHHH+;+HHHH;          +
+    +HHHHHHHHHHHHHHHHHH+
+     H+      ;+HHHHHHHHH;
+    H;         ;+HH+; HHH+
+   H+                  +HH+
++H+                      +HH+       +
+                            +H+    +
+                              H+HH+
+                              H    +
+                              +     +
+                             +      H

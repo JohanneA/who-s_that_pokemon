@@ -1,0 +1,53 @@
+onix,m
+
+
+          HH+
+          H+;H              +HHH+
+          H++;+H         +HHHHHHHHHH+
+           H++;;+H     +HH+;;;;;;;;;;H
+            H+++;;+HHH+;;;;;HHH+;;;;;;+
+             H+++;;H;++++HHH+++HH+;;;;H
+              H+++H;HH++; H+++H;;+;++H
+              HH+H++H+; H H;;;;;+;+HH
+HH HH          HHH++H;  HH+;;;;;;++
+HHH++H          H+++H+HH+;;;;;;;;+H
+  HH+HHHH       H++++HH;;;;;;;+++HHH+
+   HHHH;;H      +;+++H;;;;;+++HHHHHHH
+    H+;;;H       +;;++;;;++HHHHHHH+;H
+    H++;;H       H;;;;+HHHHHHHHH+;;;+
+    H+++H        +;;;;H;;+HHHHH+;;;+
+     H+HHH        ++;;+;++HHHH++++;HH+
+     HH+++H       H++H;+++H+++++++;H;;+H+
+     HH+++H        +HH+++HH++++++HH+;;;+++
+   +HHHH++H          HHHH+HHHHHHHH+;;;;+;H
+   HHHHHHH           +HH++H++H+++H;;;;;+;H
+  +HHHHHHH            +HH+H+H+++H+;;;;;+;+
+  H+H++;+H+              HHHH+++H+;;;;;;H
+   H++;+HHH               HHHHHHH++;;;;+H
+   H;;+HHH+               +H+++++H+;+++H+H
+    HHHHH+                 +H++++H++++HH++H
+   +HHHH                     H+++H+++HH++++H
+  ++++HHH+                     HHH+++HH+++HH+
+  H++++HHH+                     HHHHH+H++H;;H
+  H++HHHHHH                    +H++++HHH;;;;+
+  HHH+++;;+                    HHH+++H;;+;;H
+  +H+++;;H                     H+H+++H;;;+;+
+   H+++;+                      +++HH+H;;;;+
+    HHHHH+                      HH++HH;;;HH
+    HHHHHH+                    +HH+++H;HH+++
+   +HHH+HHH                    HHHHHHHH++;;H
+   HHHH+HH++                  +HHH++HH+++;;+
+   HHH++HH+H                 +HHHHH++HH+;;H
+  +HHH+++HHH                 H++HHH+++;H;;+
+  HHH+++HHHHH+ +HHHH+        H+++H++++;+;H
+  +HH+++H+HHHHH+++++H+  +HH  H+++HH++;;;++
+   +H++HH+H++HHH++HHHH ++++H H+++HHHHHHH+
+    +HHHH++HHH;HHHHHHHHHHH++HH+++HHHHH+
+       HH+HHHH;;H++HHHHHHHHHHH+++HH+;H
+        H+H+HH;;H+++HHHH++H+HH+HH+;;;+
+         HH++H;;H+++HHH++H;;+HHH;;;H+
+         +H++H+;H+++HH+HH;;;++HHHH+
+           HH  +HHHHHH++HH;;;+H
+                +HHHHH++++H;;H
+                  +HHHH++++HH
+                       +HHHH

@@ -1,0 +1,67 @@
+hoesea,m
+
+
+                                                  MM
+                                                  MM
+                                                MM..MM
+                                                MM..MM
+                  MMMM                          MM..MM
+                  MMMM                          MM..MM
+                MM--..MM                        MM..MM
+                MM--..MM                        MM..MM
+                MM--....MM            --MMMMMMMM--..MM
+                MM--....MM            --MMMMMMMM--..MM
+                  MM--....MM      --MM..........  MMMM
+                  MM--....MM      --MM..........  MMMM
+                    MM--....MM  MM..............      MM
+                    MM--....MM  MM..............      MM
+                      MM--....MM..................      MM
+                      MM--....MM..................      MM
+                        MM--......--MMMMMM--............MM
+                        MM--......--MMMMMM--............MM
+                        MMMM--....MM        MM........MM  MM
+                        MMMM--....MM        MM........MM  MM
+                MMMMMMMMMMMM--....MM    ----MM......MM----MM
+                MMMMMMMMMMMM--....MM    ----MM......MM----MM
+            MMMM..................MM  --MMMMMM......MM--MMMM
+            MMMM..................MM  --MMMMMM......MM--MMMM
+          MM....MMMMMM--------....MM  --MM  MM....  MMMM  MM
+          MM....MMMMMM--------....MM  --MM  MM....  MMMM  MM
+        MM....--......MMMM------..--MMMMMMMM........  MMMMMMMM
+        MM....--......MMMM------..--MMMMMMMM........  MMMMMMMM
+        MM......--MMMM------MM----....................        MMMM
+        MM......--MMMM------MM----....................        MMMM
+        MM..--..MM--------MMMMMM----..........MM--......  ......  MM
+        MM..--..MM--------MMMMMM----..........MM--......  ......  MM
+        MM....--..MMMMMMMM..----MM------........MM--....--MMMMMM--MM
+        MM....--..MMMMMMMM..----MM------........MM--....--MMMMMM--MM
+        MM--....------------..----MMMM------------MM--..--MMMMMM--MM
+        MM--....------------..----MMMM------------MM--..--MMMMMM--MM
+          MMMM--------------..--------MMMM--------MM--..--MMMMMM--MM
+          MMMM--------------..--------MMMM--------MM--..--MMMMMM--MM
+        --MM--MM------....----....----MMMMMMMMMMMMMMMM--..------MM
+        --MM--MM------....----....----MMMMMMMMMMMMMMMM--..------MM
+        MM--....----------..MMMM--  ..MM              MMMMMMMMMM
+        MM--....----------..MMMM--  ..MM              MMMMMMMMMM
+      --MM------..--------MM..  MMMMMM
+      --MM------..--------MM..  MMMMMM
+      MM----------....--MM          MM
+      MM----------....--MM          MM
+      MM--------------MM              MM
+      MM--------------MM              MM
+      MM----------....MM..........    MM
+      MM----------....MM..........    MM
+      --MM........----MM....MM......  MM
+      --MM........----MM....MM......  MM
+        MM----------....MMMM....  ....MM
+        MM----------....MMMM....  ....MM
+          MM------....................MM
+          MM------....................MM
+            MM----................--MM--
+            MM----................--MM--
+              MM----............--MM
+              MM----............--MM
+                MMMM--------MMMMMM
+                MMMM--------MMMMMM
+                  --MMMMMMMM--
+                  --MMMMMMMM--

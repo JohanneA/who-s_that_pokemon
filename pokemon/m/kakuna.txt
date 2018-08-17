@@ -1,0 +1,41 @@
+kakuna,m
+
+
+         XHHX
+      XHH    XHH
+     H;;;;;;    XH
+    H;;;;;;;;;    X
+   H;;;;;;;;;;;;   X
+  H;;;;;;;;;;;;;;  HH
+  X;;HHX;;;;;;;;  XHHX
+ X;;;HHHHX;;;;;;;; HXH
+ H;;;XHHH  ;;;;;; HX H
+ X;;;;;XHHHX;;;;;XX; X
+  H;;;;;;;;;;;;;;;;;H
+   XHHX;;;;;;;;;;;;X
+  X ;;XHHHX;;;;;;;XH
+  H ;;;XXXXHHHHHHHX H
+ X ;;;;;XXXXH;;; ;H; H
+ H ;;;;;;HHHHH;;;X;; H
+X ;;;;XHHXXXHXH;XHHHHX
+H ;XHX;;XXXXXX;H;H;;H
+XHX;;;;;;XXHX;;X;X;; H
+ H;;;;;;;;;XX;;;X;H; H
+ X;;;;;;;;X;;;;;H X; X
+  XHHHX;;;H;;;;;H  XH
+  H ;;;XHHHX;;;;H  H
+  H ;;;HX;;HX;;;H; HX
+  X ;;;HXX;HXX;;H;;XH
+   X ;;;HXH;;HX;H;X;H
+   H ;;;HH;;;;HXH;H H
+   H  ;;X;;;;;;HHH; H
+   X   ;H;;;;;XHXH; X
+    X  H;;;;;H;;;X X
+    H X;;;;XH;;;; XH
+     XH;;;H;;;;;; HX
+      XH;X;;;;;;; X
+        HH;;;XHHHHH
+         X;;H;;;; H
+          XHX;;;  X
+             XH; H
+               XH

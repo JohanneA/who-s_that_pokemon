@@ -1,0 +1,45 @@
+starmie,m
+
+
+                       H+
+                      H;;H
+                     H;+; H
+                    H+++; +H
+          +H+      +H;++;  H+      +H+
+          H+;HH+  +H;+++;   H+  +HH +H
+          H++;;;H+H;++++;    HHH;; ++H
+          HH++;;HH;++++HH;    +H; +++H
+          HH++HH;+++++H;;H+;;;;+H++++H
+          HHHH; HHHH+      +HHHH ;HH+H
+     +HHHHH ;;HH; H HHHHH;HH H ;HH;  HHHHH+
+ +HHH;;;;;;;;;+HHH;HH;;    ;H HHH;         HHH+
+H          ;+HHHH;+H++;;;   ; ;HHHH+;         ;H
+H+++++++++HHH   H+HH++++;;; H  H   HH+;;;;;;;;;H
+ H++++++HH   ;;+HHHHH+++++;H H H;;;   H+;;;;;+H
+  H+++++H;;;;HHH;HHH+HHHHHH;; H+HHH;;; H;;;;+H
+   +H+++HHHHH++  ;H+HHHHH++H;H; +++HHHHH;;+H+
+    +H+++++HH;  H ;HHHHHHH++H; H ;+HH+;;+HH+
+     +HH++;+H;;H   ;+HHHHHH+;   H ;H+;;+HH+
+      +HH+;;+HH  ;H ;;;;;;;; H;  HH+;;+HH+
+     +HHHH+;+H  ;H   ;H  H   +H;  H;;+HH+H+
+    +HHHHH+;H  ;H;  ;+H  H   ++H;  H++H+;;;+
+  ++++++HH;H;;;HHH;;+H;   +  +HHH;  H+H;;;;;H+
+ H;;;;;+HH;H++HHHHH++H;   H;;HHHHH;;H;H+++;;;;H
+ +HH++++H;;;HH++++HHHH;   HHH++++HHH;;;+++++HH+
+    +HH+H;;++;;+++++HH;;;;H++++++++H;;;H+HH+
+       ++;+ ;;;;;++++H++++HH++++++++H;;;+
+       H+++;;;;;;;++++HHHH++++++++++H;;;H
+      ++++;;;;;;;;+++++++++++++++++++H;;;+
+      H++ ;;;;;;;;++++HHHH++++++++++++;;;H
+      H++;;;;;;;;;++HHHHHHHH++++++++++H;;H
+     +++;;;;;;;;;++HHHHHHHHHH++++++++++;;;+
+     H+ ;;;;;;;;+HHHHHHH+++HHHH+++++++++;;H
+    +++;;;;;;;;+HHH+HHHH+++++HHH++++++++H;;+
+    H+;;;;;;;+HHHHH++HHH;;;++HHHHH+++++++;;H
+    H ;;;;;;+HH+  H++HHH;;;++H  +HH+++++++;H
+   + ;;;;;+HH+     H++HH;;++H     +HH+++++H++
+   H+;;;++H+       +++HH;;+H+       +H++++++H
+   H++++H+          H++H;++H          +H++++H
+    HHH+             H+H;+H             +HHH
+                      H++H
+                       HH

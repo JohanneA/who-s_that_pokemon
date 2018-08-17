@@ -1,0 +1,50 @@
+drowzee,m
+
+
+            HHHH
+            H ;;HHH  XHHHHHX
+             HHH;;HHH       HX
+       X     HHHHH;;;;;;;;    HX
+      H X    XHHX;;;;;;;;;;;   HHXHHHHHX
+      H H     HX;;;;;;;;;;;;;;  H ;;  H
+     X;; X    H;;;;;;;;;;;;;;;;H ;XHHH
+     H;X H   HX;;;;;;;;;;;;;;;;;;HHHH
+    XHXX;H   HX;;;;;;;;;;;;;;;;;;XHH
+   HH;XX;;X XX;;;;;;;;;;;XX;;;;;;XHH
+ XH XXXXX;HHHX;;;;;;;;;;X;;;;;;;;; H
+ H ;XXXXXX; HHXXXX;;;;;;;XHHX;;;;; H
+X ;XHHXXXXXX; H;;;XX;;;;H  H H;;;;; X
+H;XHHHHHHXXXX;H;;;;;;;;X XXXX;;;;;; H
+H;HHHXXXXHHHHHXXX;;;;;;;;;;;;;;;;;; H
+HHHXXX;;;XHXXHX;;;X;;;;;;;;;;;;;;;; H
+X HXX;;;;;H;XHX;;;;;;;;;XHX;;;;;;;;; H
+  HXX;;;;;X;;HXXX;;;;XHHHX;;;;X;;;;;;HXHH
+   XXX;;;;;;;XH;;;;;HHXX;;;HHX;;;;;;; H; H  XHHX
+   HXXXX;;;X;;HX;;;XHHHHHHXX;;;;;;;;;;H; HHXH  H
+   XHXXXXXXH;;;HXXXHHXXXXX;;;;;;;;;;;;HX; HH ;;H
+     HHXXXHX;;;;HHHHXXX;;;;;;;;;;;XX;;HX;;H;;;H
+       HHHH;;;;;;;;;;;;;;;;;;;;;;;HXXXHXX;;;;;X
+          HX;;;;;;;;;;;;;;;;;;;;;;HXXXXXXXXX;H
+          HX;;;;;;;;;;;;;;;;;;;;;;XHXXXXXXXX;H
+          HXX;;;XXXX;;;;;;XXXX;;;XXHHHXHXXX;;H
+          HXXXXXXXXXXX;;;XXXXXXXXXXXHHHHHXX;;H
+          HXXXXXXXXXXXXXXXXXXXXXXXXHHHH XHXX; X
+         HHHXXXXXXXXXXXXXXXXXXXXXXXXHHH   HH; H
+       XH;;XXXXXXXXXXXXXXXXXXXXXXXXHHHXH    H;H
+       H;XXXXXXXXXXXXXXXXXXXXXXXXXHHHH;H     H
+      X;XXXXXXXXXXXXHXXXXXXXXXXXXHHHHX;;X
+      H;XXXXXXXXXXHXHHXXXXXXXXXXHXHHHX;;H
+      HXXXXXXXXXXHXHHHXXXXXXXHXHXHHHXXX;H
+      HXXXXXXXXXHXHHHHHXHXHXHXHXXHHHXXX;X
+      HXXXXXXXXHXHXHHHXHXHXHXHHHHHHXXXXH
+      XXXXXXXXHXHXHHHHHXHHHXHHHHHHXXXX;X
+       HXXXHXHXHHHHHHHHHHHHHHHHHHHXXXXH
+       XHXHXHHHHHHHHXHHHHHHHHHHHHHHHH
+        HHXXXHHHHHHX    XHHHHHHHHHH
+         HHXXXXHHH        HHHHXXXXHH
+       HHXXXXXXXHX        XHHXX;;H;;X
+      HX;;;;XXXXH           XH;;;;H;H
+     H;;;;H;;;XXX             XHHHHX
+     X;;;H;;;;;H
+      HX;H;;;HH
+        HHHHX

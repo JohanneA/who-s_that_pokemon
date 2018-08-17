@@ -1,0 +1,48 @@
+wartortle,m
+
+
+                           .H
+                           H H.
+           .H.             H . H
+           H  HH.          H  . .
+           H .  HH          H . H
+           H.  .  H.        H... .
+            HH  H  H         HH. H
+            H.   .  H   .HHHHHH. H
+             H   H  HHHH        HH
+             H.   H  H.           H.
+       .HH.   H.H H  .             H
+     .H    H.  HH...H.             ..
+    .        H   HHH.               H
+    H         .    H.               H
+   .    HH.   H    H.               H.
+   H   H  H.   .   H.   H.          HH
+   H       H   H   H.    HH        ..H
+    H      H   H   H..     H.      H H     .HH
+  .HHH    H    H  HH..    H H      . .H HHHH H
+ .H   HHHH     .HH  H..   .H H       .HH    HH
+ H      H     .H  HHHHH.  .H        .H       H
+.       H     H     H H...       H .HH  H H  H
+H            H.   HH H.H..........H H.  HH  .H.
+H  HHH.      H.    . HHHH HHHHHHHH.H...    .H H
+ .H    H     H..    .HHH..HHHHH. .HH.......HHHH
+ H      .    H......HH..HH...  HH   H....HHH
+ H      H     H...HH..   .HHHHH      HHHH.
+ H      H .   .HHHHH.       H         H H
+ H     H   .   .H.H..       H         H H
+ .H  HH    .H  .H H..       H       . H H
+  H     .   .HH.. H...HH    H    HH.  H H
+   HH    .     HHH...   .HHHHHHH.     . .
+    .HH   .HH ..HH H.       H        H H
+      .HH    .HHH..H.       H        H.H
+         .HH...HHHHHH.    .HHH.     HHH.
+            .HHHHH..H..HH.     .HH .H  H.
+               HH  ..HH...      ..HH    H
+               .    ..HHH.......HHH.     .
+               H     ..HHHHHHHHHHH.      H
+               H     ...HHH...HHH...     H
+              H     ....H. HHH .H...      H
+             .H. ......H         H...    .H.
+               H  ...HH.         .HH.    H
+               HHH .H               H. HHH
+                  HHH               HHH

@@ -1,0 +1,39 @@
+mew,m
+
+
+                /H
+               / =/        /H/
+         /HHHH/ ==H       H   H
+ /H/  /H/      H==H      /=    H
+/   HH=          =H      H==    /
+H== ==           //      /==    H
+/==             // /      H==   /
+ H=   /H/==     H H /      H==   /
+  H=  H=H/=     /H/ H       H==  H
+   H= H HH/     =/ =/        H===H/
+   H= H H /      ==H  H       H=H=H/
+   /==/HH/=       H  H=/       H= HH/
+    H======       / H=/H      /=  / H
+     /H==/==     H H== /      H= /  H
+        HH/HHHHH/ H/==H       /= H =H
+         H///==/H///HH/      /=    //
+         ///====/HHH= H/     H=    /
+        H/===== =H=H  HH     H= =  H
+       H==/=     H H  H=/    H =/ //
+      H=  H=     / /  / H    H // H
+     H=   /     /=      H    H // /
+    H=   /=     H       H    H ///
+   H==  /H=     H       H    H = H/
+   /=H /H / =   H  =/= =/   H=  //H
+    / /   H==/H H  /// /=/H H   H/H
+          H==  /H  /// H==/H=   H=H
+          H===  H  ///=/=====  /H=H
+         H/==== /= =/=/====/HH/ /=/
+        H///===///=   HHHH/    H H
+       H//HH==///H=  =/        / /
+      H///  /HHH/H== /        H H
+      H//H      H/===H     /H/ H
+       ////H/     /=/  /HH/=  H
+        //////HHHHHHHH/====/H/
+         /HH//==========/H/
+             /HHHHHHHHH/

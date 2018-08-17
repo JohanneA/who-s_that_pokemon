@@ -1,0 +1,43 @@
+meowth,m
+
+
+            X          X
+            H         XH
+           XH HHX     HH
+           HXH   H   X H
+     XHHX  HH HHH;X  H;H XHHX
+     HHHHHX H   ;;H X HHXHHHH
+     HHX;HH H  HH;HHH HHHXXHH
+     HHX;;H H  ;;;HH ;HHXX;HH
+     XHHXHH H HHH;HH;HHHH;;HH  XHHH
+      HHH;H;H ;;;;H ;H XHH;HX HXX;;HX
+      HX  H;X;HHH;X ;H  ;HHH XXXXXXX;X
+      H      H;;;H      ;;HH HXXXHHXXH
+XHXXXH; XHX   HHX  XHHX  ;XHXHXXXXXHX;X
+  XHH  XH HX      XH  HX ;;;   ;;XXHXXH
+     H H  ;H      H   ;H ;XXXHXXXXXHXXH
+     HX   H H    H    H H;XH  HXXXHXXXX
+     H X  HX      X   HX ;XX   XHHXXXXH
+     ;H XXX        XXXX ;;; X;    HXXHX
+    ;XH;             ;;;;XHHHXX;  HXXH
+  ;XHHXHH; H;;;;;;;H;;;;XHX    XX H ;H
+ XH      HH;H HHH H;;XXHX         X ;X
+          XHHHHHHHH;HHH          H  H
+          H;  HHHHHH; XX        XH ;X
+         H  HXXHHH; H  H XHH HHHH ;H
+         H;    ;XHHH  ;H HXXHXXHXHH
+         XH;;;;HH;   ;XHHX;;HXXXHH
+          XHHHH XH;;;HH HXXHX;;XHH
+            H     HHH;XHXXXXXXXHXH
+            X;;    ;;;XHXXXXXHHX;X
+             H;;;;;;;XH;XXXXXXXXH
+              HHXXXXHXH  ;XXXXHH
+              XXHHHHHH; ;;;;;H
+             H ;H   XH XX;;HX
+           XH  ;H    H XX;H
+         XHH  ;HX    XH;;HX
+        XHXXXX;H      HHX
+        HXHXXXH
+        HHXXHXH
+         HXHXH
+          HHH

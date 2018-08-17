@@ -1,0 +1,58 @@
+venusaur,m
+
+
+                  +HH+     +HH+
+                +H    H  +H++  H+
+           +HHHH   ++ ;HH;    +  HHHH+
+         +H++++HH   ;;+;+;+++   HH    H+
+        +  +++++ HH;+;H;HHH;H;HH+++     H
+        H   +++    HHHHHHHHHHH+++++     H+
+         HH     + ;;H;HHHHHHH;H+++    HH
+       +H      ++;;;H+H;H;H;++H;;       H
+       H  ++    ;;;;HH++H++++H;;;;       +
+       H ++++ +HHHHHHHH++++HHHHH;;;;++   H
+       H ++HHH;;HHH+;;;HHHH;;;++HHH++++   +
+       H HH;;;HH +++;;;;;;;;;;+++  +HH+  ;H
+       HH  ;HH    ++ ;;;HH;;;       +HHH;;H
+       +   ;H        ;;HHHH;;+   ++  H  HH+
+           H  ++   +++HHHHHH++  +++   H
+         +H    +   ++HHH+++HH+   ++   H+
+           H H     ++HH+H+H++   ;H    +
+           +HH H   ;HH+H+H;H;H ;;HH  H
+             +H H;;;HH++;;;;;H;;;H HH
+                 H;H HH;H;H;HHH;;H  HHHHHH
+            +HHHHHH+ H+H;H;H;H;HHHHHHH;;++;H+
+            H;++HHHHHHHHH;;;H+;H;HHHH+++H;;;HH+
+       +HHHH H+++HHH ++++HHHH+H;; HHHHHHHH+H;; H+
+     +H ;;;;+++HHHHH;;;+++HHH++++; H+H+H++++H+;; H
+       HH;++HHHH++HHHHH ;+++HH+++; H++H+H+;;;;;;; +
+    +HH ;;HH+++++HHHH+ ;;+++++H+; H+++;++++H;;H;;;H
+  +H  ;;;H++++++H++HH+;;++H;;++H;HHHH++;HHHHHH H;; H
+  H ;;;H+;;++H;++++HH+;H+H ;;;;+;    HHH   HH   +HHH
+ + ;;;H;;;;;+H ;HH;;HHH;H ;;+;;;H;;;;HH  HH  H     +
+ H;;H;;;;H ;+;H ++HH;;;H;;;++;;;+;;;;H HH ;; H
++ ;HH;;; HH ;;HHH++;HH+H++++H+;;;;+++H;  H; H+
++H+ H    H+HHH++H+H+;;H+H+++H+;H;;HHH+;;;;;HH
+H   +HHHH+++++;;H+HH+;;;+HHH++;H;; H;;;;;;;HH
+     H+++++;;;;;H+HHH;;;;+++H+H+H;; H;;;;;; H
+     H++++;;;;;;H+H++;;;;;;++HH+H+++H;;;;;; HH
+    ++++++;;;;;;++++++;;;;;;;+H+HHHH;;;;;; HHHH
+    H++;++;;;;;;+++++HHH;;;;;;;++++;;;;;;;H;  HH
+    H+;;H++;;;+++++++++;;H;;;;;;;;;;;;;;;;;;HHHH
+    H+;;H++;;;H+++++HHH;;;H;;;;;;;;;;;;;;H;HH H H
+    +++;H+++;H++++++  HHH;H;;;;;;;;;;;;;;;HHH H;H
+     H+++H++;H++++++  HH H;;;;;;;;;;;;;;;;H   H;H
+     +H++H++;H+++++++    HH;;;;;;;;;; ;;;;;  H;H
+     H H++HH;H++++H+++++++;;;;;;;;;;;;  ;;;;;+HH
+     +HHHHH+;+H+++HH+++;;;;;;;;;;;;;;;; ;;;+HHH
+          H+;;+HH++HHH++++++;;;;;H;;;H;;;+H;HH
+          H+;;;;+HH+HHHHHHHH+++++;;;;;;+H; HH+
+          H+;;;;;++HHH  HHHHHHHHH++++HHH;H HH H
+          ++;;;;+++++HH HHH HHHHHHHHHHHHHHH+HH
+           H+;;++++HH  +H+++++HHHHHH;;H+HH H
+           H;++++HH+H    +HHH+++;;;HH+    H
+           HH;;;;+++H        +HHHH+
+          H  H;;+++HH
+         +HHHHHHHHH  H
+             H  H  HH+
+              +H

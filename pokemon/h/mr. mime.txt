@@ -1,0 +1,50 @@
+mr. mime,h
+
+
+        :H:                            :H:
+       ::::H                         :HHHH:
+      :HH:::H                       :H:::HH:
+     :HHHH:::H                     :H::::::H
+     HHHHH::::H:               :HHHH:::::::H:
+     H::HHH::::HH: :HHHH:     H::::::::H:::HH
+     :  HHHHHHHHHH:,,,,,,:HH:H::::::::HHHH::H
+        :HHHHHH:,,,,,,    ,:HHH::::::HH: :HHH:
+          :HHH:,,,,        ,HHH:::::HH:   :HHH
+           :HH,,,,,         HHHHHHHHH:     :HH
+            HH,,:,     ::   :HHHHHHH:       :H
+            ::,: :    :  :  ,:HHHHH:         :
+            :,,: ,    :  ,   ,HHH:
+   :HH:     H,,  H    H H,    H   H
+  H,   H    HH,,       ,,  :H:  :: :
+ H, H :H:  :::H,          H,,H  :: H      HH
+:,   :,, : H::H,  :HHHH: :,::H     :     H  :
+H,HH H,  H ::::,:H       H::::H,,,H     : :: H
+H,  H:,  :  H:,,,       :HH:HH  ,,:    H ,:: H
+:, :  H H  H:H:,,,     :   :H      :H:::,,, :
+H, H,  H   ::HHH:,     H ::  H       ,::,,:H
+ HH,,, :   H::H::::HHH:H :: ,:        ,,:H
+   H,,HH  HH:::::,,,,   H   ,, ,,,,     H
+    H::H H:H::::,,,,     :H:,,,,,,,    :   H:
+     H::H,,:HH:,,,,,        :,,,,,,,    :H:  H
+      ::,,,: H,,,,,         H,,,,,,,    ,,,:: :
+       H,,:  H,,,,,          :,,,,,,    ,,,:: H
+        :H   H,,,,,:HH:      H:,,,,,   :H:,  H
+             H:,,,H,,,,H    H::H:,,,, :   :H:
+            HH:,,:,,,,,,:  H:::::H:HH:
+         :HH::::,H:,,,,,H  H::::::HHH:
+        H:::,,H::H:,,,,,H  H:::::H,HH:
+       :  H:,:H:HH:::,,,:  H::::H:,,HH:
+       H,   H  :HH::::,H  ,,H:::H:,,,HH:
+       :,, H:    :H::::,,,,H :HHH::,,,HH
+        :H:,,:H:   :H:,,,,H:      H:,H,HH
+         :H,,,,,H     :HH:         H:, ,H
+           H,,,,H H:              H,H,  :
+            :H,,:H::H          HHH,,:HH:
+              H,,H::::        H,,,,H    H:
+        :HH: H:HH:::HH        H,,,H    :HH:
+       :HHHHH::::::HHH:     :H:,,:H:  :HHHH:
+       HHH HH:::::HHHHH    :HHHHH::HHHHHHHHH
+       :HHHH:::::H :H:    HHHHHHH:::::H::HHH
+        :HHHHHHHH         :HHHHHHH:::::::HH:
+          :HHHH:           :HHHHHHH:::::H:
+                                 :HHHHH:
