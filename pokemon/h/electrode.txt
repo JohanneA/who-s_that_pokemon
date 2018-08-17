@@ -1,0 +1,41 @@
+electrode,h
+
+
+               XHHHHHHX
+            XHH        HHX
+          XH              HX
+        XH                  HX
+       H                      H
+      X       HX               H
+     H          H   X      HHX  X
+    H ;          HX H     H      H
+   X ;            HH     H       ;X
+   H ;                            H
+  X ;;;            X     X        ;X
+  H ;;;            H     H         H
+ X ;;;;;           H     H         ;X
+ H ;;;;;;;;                        ;H
+ H;;;;;;;;;;;;XHHHHHHHX;           ;H
+X ;;;;;;;;XHHHXXXXXXXXXHHHX;        ;X
+H ;;;;;XHHXXXXXXXXXXXXXXXXXHHX;     ;H
+H ;;;XHHXXXXXXXHHHHXXXXXXXXXXXHX;   ;H
+H ;XHHHXXXXXHH;;;;;;HHHXXXXXXXXXHX; ;H
+H;HHHHHXXXH;;;;;;;;;;;;;HHXXXXXXXXH;;H
+HHHHHHXXXX;;;;;       ;;;;;HXXXXXXXH;H
+HHHHHHXXXH;              ;;;;HXXXXXXHH
+XHHHHHXXXH                 ;;;;HXXXXX;
+ HHHHHXXXX                   ;;;HXXXH
+ HHHHHXXXXH                  ;;;HHXXH
+ XHHHHXXXXX   ;               ;;HXXXX
+  HHHHXXXXXH  X    ;          ;;X;;H
+  XHHHXXXXXX  H    X          ;HX ;X
+   HHHHXXXXXH H    H         HXX; H
+   XHHHXXXXXXH     H       HXXX; ;X
+    HHHXXXXXXXXHH      XHHXXXX; ;H
+     HHHXXXXXXXXXXHHHHHXXXXXX; ;H
+      HHXXXXXXXXXXXXXXXXXX;XX ;H
+       HHXXXXXXXXXXXXXXXX; ;X;H
+        XHXXXXXXXXXXXXXXXX;XHX
+          XHXXXXXXXXXXXXXXHX
+            XHHXXXXXXXXHHX
+               XHHHHHHX

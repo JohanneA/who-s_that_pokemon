@@ -1,0 +1,52 @@
+snorlax,e
+
+
+      ::
+      HHH:                   :HH
+      HHHHH:               :HHHH
+      HHHHHH: :HHHHHHHHH: :HHHHH
+      HHHHHHHHHHHHHHHHHHH:HHHHHH
+      :HHHHHHHHHHHHHHHHHHHHHHHHH
+      ,HHHHHHHH:,,,,:HHHH:,,:HHH
+       HHHHHH:,      ,:H:    ,:H
+       HHHHH:,  :HH:  ,:  :H: ,:
+      :HHHH:,,:H             :H,:
+      HHHHH,,,,       :::       H
+      HHHH:,,,,      :::::      :,
+      HHHH,,,,,,    ,:::::,     ,:
+     ,HHHH,,,,,,,   H::,,:H     ,H,
+     :HHHH,,,,,,,,  H: ,, H    ,,HH:,:HHHH:,
+     H:::HHHH:,,,,,:HHHHHHHHHHHH:HHHHHHHHHHH:
+    ::HHHH:,:H:,:HH::,,         ,:HHH ,HHHHHH:
+   :HHHHHHHH:, HH::,,             ,:H :HHHHHHH:
+  :HHHHHHHHHHHHH:,,,               ,:HH:,, HHHH:
+  HHHHHHHHHHHH:, :,                  :H,,  HHHHH
+ ,HHHHHHHHHHHHH: H,                   :H  :HHHHH:
+ :HHHHHHHHHHHHHH:,                     :HHHHHHHHH
+ HHHHHHHHHHHHHH,,,                      :HHHHHHHH
+,HHHHHHHHHHHHH:,,,,                     ,:HHHHHH:
+:HHHHHHHHHHHH:,,,,,,                    ,,HHH: HHH:
+HHHHHHHHHHHH:,,,,,,:,                   ,,HHH, HH,H H:
+HHHHHHHHHHHH,,:,,,H H,                 ,,:HH:,,:, H:,H
+HHHHHHHHHHH:,: :,:   :,,H:            ,,,H::::H :H:, H
+HHHHHHHHHHH,,H  HH,  H:H,H,,        ,,,,:H::,,     : :
+HHHHHHHHHHH,:,  ::,, :H, H,,,,,,,,,,,,,,H::,,      ,:
+:HHHHHHHHHHHH,,:,,:H:,:, :,,,,,,,,,,,,,:H:,,,       H
+,HHHHHHHHHH:,:H,      ,:H,,,,,,,,,,,,,:H::,,        :
+ HHHHHHHHHH,,,,         ,:,,,,,,,,:HHHHH:,,,   ,:,  ,:
+ HHHHHHHHHH,,,           H,,,:HHHHHHHHHH:,,   ,:::,  H
+ HHHHHHHHH:,,,   ,:::,   :::HHHHHHHHHHHH:,,   :::::  H
+ HHHHHHHHH,,,    :::::,  ,HHHHHHHHHHHHHH:,,   :::::  H
+ HHHHHHHHH,,,   ,::::::   HHHHHHHHHHHHHH:,,   ::::, ,:
+ HHHHHHHHH,,,   :::::::   HHHHHHHHHHHHHH:,,   ,::,  :
+ HHHHHHHHH,,,   :::::::   HHHHHHHHHHHHHH:,,    ,,   H
+ :HHHHHHHH,,,   :::::::   HHHHHHHHHHHHHH:,,,       ,:
+ ,HHHHHHHH,,,   ::::::,   HHHHHHHHHHHHHHH:,,      ,:
+  HHHHHHHH,,,   ,:::::   ,HHHHHHHHHHHHHHH:,,,,  ,,H
+  :HHHHHHH,,,    ,:::,   :HHHHHHHHHHHHHHHH:,,,,,H:
+   :HHHHHH:,,,    ,:,   ,HHHHHHHHHHHHHHHHHHHHHH:
+    :HHHHHH,,,          :HHHHHHHHHHHHHHHHHH:,
+     :HHHHH:,,,        ,HHHHHHHHH:,
+      :HHHHH:,,,      ,:HHHHHH:,
+        H:HHH:,,,    ,:HH:,
+              :HHHHHH:

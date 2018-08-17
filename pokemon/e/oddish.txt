@@ -1,0 +1,43 @@
+oddish,e
+
+
+             +H+
+             H;;+H
+            H;;;;;H         +H+
+           +;;+;+;;H      +H;;H
+           H;HH;;+;;H   +H;;;H
++HHHHHHH+  HH H;;H;;;H H;;;;H
+  +;;;;;;+H+H H;;;+;;;H;;H;;+
+   +H;;;;;;;+HH;;;H;;;;+H;;+
+     H;;;++;;HH;;;;+;;;H++;H   +H+
+      H;;;;+;+H;;;+H++;;+++HHH+;;;+
+       H;;;;H;+;;++H+++;HH+;;;;;;+H+
+        H;;;;H++;++H+++;H;;;HH;;H   H
+   +HHHHHHH+++HH;+++H+++H;;H;;;+
+  +;;;;;+H;;+H+H;+++H++++;H;;;;H
++H;;;;;;;+H+;;HH++++H+++;H+++;+
+  +H;;;;;;;;H+++H;++H++HH+++++H
+    +H;;;;;++H++H;++H++H+++++H
+      +H;;;+++H+++;+H+H++++H
+        +H;;++++HHH+++H+++H
+          +H++H+++++++++HH
+            +H+++++++++++H
+            ;H++++++++++++H
+            ++++++ +++++ ++H
+           ;HHH+++++++++++++H
+           +HHHH+++++HH+++++H
+           HHHHH+++++HH+++++H
+           HHHHHHH++++H+++++H
+           HHHHHHHHHH++++++H
+           +HHHHHHHHHHH++++H
+            +HHHHHHHHHHHH+H
+             +HHHHHHHHHHHH
+          +HHHHHHHHHHHHH+
+         +HHHHH+ +HHHH+
+        +HHHHH+   +HHH
+        HHHHHH   +HHHH;
+        HHHHHH   HHHHH+
+        HHHHH+   HHHHHH;
+        +HHH+    +HHHHH+
+         +H+      +HHHH+
+                   ;+H+

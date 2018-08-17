@@ -1,0 +1,56 @@
+venomoth,h
+
+
+      =HHHHHH=
+     =H======HHH=
+    ====       =HH=
+   =HHHHH=       =HH=
+   H===   =H=      =HH=
+   ===       =H      =H=                       =HH=
+  ====         =H     =HH                    =HH   H
+  H==            =H     HH                  H  H    =
+  HHHHHHH=         H     HH                H   =   HH
+  ===     =HHHH=    H     HH              =     =  HH
+   =            =HH= H     HH             H=    H = H
+   H                HHH     HH           H H    H H H
+   H                   H     HH         =  H    H H H
+   =                    H     HH       = = ==   H H H
+    =                    H     HH     =H=H  =   = H H
+    H                     H    =HH    HH=H  H  ===H H
+    H                      H   ==HH  = H= H H =H==H H
+    =HHHHH=                 H  ===H= H == ==H==HH=H H
+     H     =HH=              H ===HHH=  H  ======== H
+     H         =HH=           H====H=   H= H======  =
+     =H            =H=        =H====H  =H= H==H==H =
+      =               =H=   ====H===H= =H= ===H=HH H
+       H                 =H ====HHH==H==H=  ==HH=H H
+       =                  =HH====H H=H==H=  HHHH H H
+        HHH=             ====HH==H= HHH=H== HHH= = =
+        H   =HHHHH=     =======H==H  HHHH== =H= H H
+        H          =HHHH========HHH=  HHH==  H  = =
+        H              =HHH=======HH=  HH==  H = H
+        =               ====HH=====HH=    =  = H =
+         =              ======HH===HHH=       =H=
+         H=    =HHHHHHHHHHH=====H==H==        H=
+          HHHH=  ==========HHH=H=HH =H  =    === =
+          H=         =========HHHHH HHH=H    H=H=H
+         H              ========H== =HH H=   H H==
+       H=                ====HHH====   H==   =  H
+      H                =HHHH===H===H=H= H==   H=
+     H             =HHH=======H==HHH=HH HH=  H
+     =          =H=     ==HHHHH=H  H===HH =  =H
+    =        =H=       HH= =HHH=HH  H===H H== H
+    H      =H        HH=  =HHHHH  H= H  =HH=HH
+    H    =H        H=    =HHHHH H  HH=    =H =
+    H=  H        H=     =HHH==H  HH H    =HHH
+    =HH=       H=      =HH==H  H   H=  =H  ==
+  H====      H=      =HHHH= =   =H=   =HHHH=
+ H===  H   H=      HH   HH=  H     HH== =
+H==   =H= H     =H=     H=H   H     H= H
+=   =H   =HHHHH=        H =H   =HHH== H
+ =H=                    =   HH    H=H=
+                         H    =HHH==
+                          =HHHH= =
+                           H==  H
+                           =   H
+                            =H=

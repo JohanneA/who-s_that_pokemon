@@ -1,0 +1,35 @@
+poliwag,e
+
+
+  :HHH
+ H    HH
+:       H              :HHHHH:
+H        :         :HH:H:::   H:
+H        H        :HHHH H:::: H H:
+H         :      :HHH H H:::::H HH:
+H         H     :HHHHH: H:::::: :HH
+:          :    HH :H: H:::::::H  H:
+ :    :    H   :H:H    :::HHHHH:H  H
+ H    :     :  H:::HHH:::H:    H:HHH:
+ :     :    H :H:::::::HH:  HHH H:: H
+  :    :    H H:::::::H  H:    H H::
+  H     :    :H::::::H   :HHHHH:  H: :
+  :     ::   H::::::H   H :HH:  H  ::H
+   :     ::  H::::::   H :    H  : H:H
+    H     :: H:::::H  : :  :H  : H H:H
+     H     ::H:::::H  H H  H H H HHH:H
+      H    ::H:::::H  H  H   : H H HHH:
+       H    ::::::::H  H  :H:  : : HH  :
+        :H   :H:::::H   :H    H H HH ::H
+          :H  H::::::H    :HH: : HH :::H
+            :HHH:::::::H        HH:::::H
+                :H::::::HHHHHHHHH:::::::
+                 :HHH:::::::::HHH:::::H
+                   HHHHHHHHHHHHH:::::H
+                  HHHHHH       H:::HH
+                  HHH::HH       HHH
+                  :H:::::H
+                   H:::::H
+                   H::::::H
+                    H:::::H
+                     :HHH:

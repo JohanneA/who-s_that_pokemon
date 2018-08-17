@@ -1,0 +1,57 @@
+poliwrath,h
+
+
+        :HHHH:
+      :HHH:   HH
+     H  H      H:
+    :         HHHH                        :HHHH:
+    H        H   H:                     HH      :HH:
+   :              H                   :H          H H:
+   H               H                  H            H H
+  :                H                 :             H  :
+  H                :        :HHH:    H              H H
+  H             H  H      :H     H:  H   H          H:::
+  H:            H ::      H :HHHH H: H   :          H::H
+  ::           HH H      H::H   HH:H H  H    H     H:::H
+ H  H         HHHH       H:H :::H H:H:H:H    :     H:::H
+ H  ::H      :HH      ::HH:H:::H  H:HHHHH   H     H::::H
+ H  :::HH:::HHHH    ::HH  :H::HHH H::HHHHH::H    :H::::H
+ H   :::::HHHHHHHH :HH    :H:H H H::::::::HHH:::HH:H:::H
+:   :::::::::HHHH:HH   :::::H  HHH:::::::::::HHH::::::::
+H   :::::::::H:  H:H ::::::::HHH::::::::::::::::::::::H
+H   ::::::::H:::: H:::::::H:::::::::HHH:::::::::::::::H
+H  :::::::::H:::::H::::HH:::::::::H    HH::H:::::::::H
+H  :::::::::HHHHHHH::::::::::::::        H::::::::::H:
+H  ::::::::HH  HH :::::::::::::H          H:H::::::H
+:  ::::::::HH  H H:::::::::::HH           H:H::::H:
+ H ::::::::H:HHH::::::::::::H  :HHH:       H:HHH:
+ H ::::::::H::::::::::::HH   HHHHHHHH:     H:HH
+ : ::::::::H:::::::HHH    :HH       :HH    H:H
+  H::::::::::::::HH     HHH   HHHHHH  :H    :H
+  H:::::::::::::H      HH   HH      HH H:   HH
+  : :::::::::::H      HH  :H   HHHH  HH H   HH    :HH:
+   H:::::::::::H      H   H  HH   :H  H H   HH  :H   H:
+   H :::::::::H      H   H: HH     H  H H :H::H H ::::H
+    H:::::::::H     HH  :H  H  H  HH :H H H   :H ::HHHH:
+    H ::::::::H     HH  HH     HHHH: H HHH     H :HHHHHH
+     H:::::::::     HH  HH  HH :HH  HH H H :  H::HHHHHHH
+     :H::::::::H    :H  :H: :H    HHH HH H :::H::HHHHHHH
+      H:::::::::     HH  HH   HHHHH  HH HH :::H:HHHHHHHH
+       HH:::::::H    HH   HH:      HHH  HH :::H:HHHHHHHH
+        :H:::::::H    HH    HHHHHHH:   :::::::::HHHHHHHH
+          HHH:::::H     HH:           H:::::H:::HHHHHHH:
+           H::::::::H    HHHHHHH:    H:::::HHH::HHHHHHH
+            H:::::::::HH     HHH   H::::::HH  H:HHHHHHH
+             H:::::::::::HH     H::::::::H    :H:HHHHH
+              :H:::::::::::::::::::::::HH      :HHHHH:
+                HH::::::::::::::::::::H:         :::
+                  HH::::::::::::::::HH
+                    HH::::::::::HHHH
+                     H :::::HHHHHH
+                     H ::::::HHHH
+                     : ::::::HHH:
+                      H :::::::H
+                      H :::::H:H
+                      : :::::HH
+                       H :::H
+                        :HH:

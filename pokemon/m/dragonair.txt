@@ -1,0 +1,51 @@
+dragonair,m
+
+
+                          H:
+                         H H            H:
+                        :  H           H H
+                        H  :          H  H
+              H:        :   :         H  :
+            H:         : H  H  :HHH: :  :
+           ::          H  H  H:     :H   :
+          :H           H     :    :   :  H
+          HH           :H : H    : :  H H
+         ::H           H H  :    H H   HH
+         H H           : H ::    :H:  :H:
+         H:H            H HH:H:      : H
+         HHH             :HHHH :     H H
+        ::  :              HHH H     HH:
+        H:: H              H:HHH:   ::H
+        H:HHH              : :HH:     ::
+        :H:  H             H H::       H
+         H:::H              : H::      H
+         :HH :H             H  H:::   ::
+           :H  :H           :   H:::::H
+             H   :H:         : H::HHH:
+              H     :H       H H::  H
+               H::    H      H  :::::
+                :::    H     :   :H:
+                H:::   :      :  :  :
+                H:::    :     H  :  H
+      :H:       :::     H     H  :  :
+    H:   :H   :H::      H     H  :   :
+   H       :H:          H     H  :   H
+  H                    :H     H  :   :
+ HH      :             H:     H  :    :
+ :H      H:::         ::      :  :    H
+: :       :::::      : H     H   :    H
+H :        :H:::   :H H      :  :     H
+H  :         :H:::H  H      H   :     H
+H  :           :H:  H      H    :     H
+:   :            :H:     H:    :      H
+ :   :              :HHH:      :      H
+ H    :                       :       H
+  H    :                     :        :
+   H    ::                  :        H
+    H     ::             :::         :
+     H:     ::::    :::::           H
+       H:       ::::               H
+         H:                       H
+           :H:                  :H
+              :HH:           :H:
+                  :HHHHHHHHH:

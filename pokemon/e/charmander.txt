@@ -1,0 +1,43 @@
+charmander,e
+
+
+                        HHHHHH
+                      HH$$$$$$HH
+                     H$$$$H$$$$HH
+                    H$$$HH$H$$$$H
+    $              H$$$  HH$$$$$$H
+   $H$             H$$$ HHH$$HHHHHH
+   HHH$            H$$$HHHH$$$$H$$HH
+   HHH$           H$$$$HHH$$$$$$$$$$H
+  $HHH$           H$$$$$$$$HHHHHHHH$H
+  HHHH$           H$$$$$$HH HHHHH HHH
+  HHH$$$          H$$$$$HHHHHHHHHHHH
+ $HHH$$$$        H$$$$$HHHHHHHHHHHH
+ HHHH$$$$ HHH    H$$$$$HHH$$$H$$HHH
+$H$HH$$$$ H$$HH  H$$$$$HHH$$$$$$$HHHH
+HH$$H$$$$ HHHHHHHH$$$H$$HHH$$$$$$HH$$H
+HH$$$$$$  HHH$$$$H$$$HH$$HH $$$ HHHH$H
+H$$$$$$$   H$$$$$$$$$HHH$$HHH$$HHH$$H
+H$$$$$$$   HH$$$$$$$$ HHHH$$HHHHH$$H
+$H$$$$$     HHH$$$$$     $HHHHHH$$$H
+ $HHHH       HHH$$$$        $HHHH$H
+   H$$H       HHH$$          HHHHH
+   H$$$HHH    HHH$$           HHH
+    H$$$$$HH HH$$$$           HH
+    H$$$$HHHHH$$$$            H
+     H$$$HHHH$$$$$            H
+     H$$$HHHH$$$$$            H
+      H$$$HHH$$$$$            HH
+       H$$HHHHHH$$$          H$$H
+        H$$HH$$$$$$          H$$$H
+         HHH$$$$$$$         HH$$$H
+          H$$$$$$$$$        HH$$$$H
+          HH$$$$$$$H       HHH$$$$H
+          HHHH$$$$$H$     HHHHH$$$H
+          HHHHHHH$$HH$$$$HHHHHHH$H
+           HHHHH$$HHHHHHH  HHHHHHHH
+           HHHH$$$HH       HHHHH$$$HH
+           HHHHHH$$H       HHHHHH$H$ H
+          H$H$H$ H$H        HHHHHHHHH
+          H H H  HH
+           HHHHHH
